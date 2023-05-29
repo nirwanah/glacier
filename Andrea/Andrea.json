@@ -1,3 +1,5 @@
-version	"4.0.2"
-changelog	"Updated to latest SMF version"
-url	"https://github.com/nirwanah/glacier/raw/main/Andrea/Play_KnightTactical.zip"
+{
+    "version": "5.0.0",
+    "changelog": "V5 \n > [Changed mod location to a trusted source.] \n > [Added four options for gloves.]",
+    "url": "https://github.com/nirwanah/glacier/raw/main/Andrea/Play_KnightTactical.zip"
+}
